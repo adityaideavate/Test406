@@ -8,7 +8,7 @@ namespace SendMail.Controllers
 {
     public class SendMailerController : Controller
     {
-        //  
+        //  I added comment here
         // GET: /SendMailer/   
         public ActionResult Index()
         {
